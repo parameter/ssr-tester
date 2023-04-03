@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "data": [
+    {
+      "type": "headline",
+      "text": "Nu ska vi modernisera inköpen",
+      "className": "mb-12"
+    },
+    {
+      "type": "slug",
+      "text": "nu-ska-vi-modernisera-inkopen"
+    },
+    {
+      "type": "excerp",
+      "text": "Julia Lundin/ Reporter på Breakit lär känna grundarna bakom Bidstacker som även delar med sig av sina spännande idéer och utmaningar. Läs hela artikeln på breakit."
+    },
+    {
+      "type": "timeStamp",
+      "date": "2022-04-18",
+      "year": "2022",
+      "month": "april",
+      "className": "mb-12"
+    },
+    {
+      "type": "img",
+      "src": "/assets/img/bidstacker_breakit_2022.webp",
+      "alt": "Amine och Pär",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Julia Lundin/ Reporter på Breakit lär känna grundarna bakom Bidstacker som även delar med sig av sina spännande idéer och utmaningar. Läs hela artikeln på breakit.",
+      "className": "mb-6"
+    },
+    {
+      "type": "author",
+      "name": "Bidstacker"
+    },
+    {
+      "type": "link",
+      "name": "https://www.breakit.se/artikel/32699/bidstacker-vill-skapa-ett-offerta-for-byggbolag-branschen-styrs-av-ett-konservativt-tank"
+    }
+  ]
+}

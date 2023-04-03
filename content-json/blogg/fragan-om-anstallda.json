@@ -1,0 +1,53 @@
+{
+  "id": 3,
+  "slug": "fragan-om-anstallda",
+  "data": [
+    {
+      "type": "headline",
+      "text": "Frågan om anställda skall få utföra självständiga inköp hanteras annorlunda från verksamhet till verksamhet.",
+      "className": "mb-12"
+    },
+    {
+      "type": "excerp",
+      "text": "Det är idag vanligt att hantverkare inom byggföretag, förutom att utföra ordinarie arbetsuppgifter också ansvarar över en del av bolagets inköp. Vidden av denna befogenhet varierar ofta mellan anställda och är dessutom svår att kontrollera och reglera i praktiken."
+    },
+    {
+      "type": "timeStamp",
+      "date": "2023-03-29",
+      "year": "2023",
+      "month": "mars",
+      "className": "mb-12"
+    },
+    {
+      "type": "img",
+      "src": "/assets/img/bidstacker_breakit_2022.webp",
+      "alt": "Shift deltagare",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Det är idag vanligt att hantverkare inom byggföretag, förutom att utföra ordinarie arbetsuppgifter också ansvarar över en del av bolagets inköp. Vidden av denna befogenhet varierar ofta mellan anställda och är dessutom svår att kontrollera och reglera i praktiken.",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inköpsbehoven uppstår frekvent inom ett byggföretag varför anställda ofta får överse en del av bolagets inköp. Befogenheten att sköta inköpen säkerställs i regel genom att byggföretagens anställda ombedds legitimera sig gentemot bolagets leverantörer innan de får ta ut varor för bolagets räkning.",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "I praktiken erbjuder dessa typer av upplägg endast ett begränsat skydd, eftersom kontrollerna inte alltid efterlevs eller också är så pass strikt utformade att dem istället riskerar att hämma och begränsa inköpen. Anställdas möjligheter att kunna utföra flexibla inköp bör inte medföra en förhöjd risk för byggföretagen att drabbas av obehöriga inköp.",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bidstacker är en flexibel och säker inköpstjänst för handeln av byggvaror. Tjänsten är skräddarsydd för byggföretag och tänkt att kunna användas av såväl inköpare, arbetsledare samt hantverkare. Tanken med Bidstacker är att hjälpa entreprenörer att samla sina inköp och samtidigt få en bättre överblick över verksamhetens totala kostnaderna.",
+      "className": ""
+    },
+    {
+      "type": "author",
+      "name": "Bidstacker",
+      "className":"mt-12 text-lg"
+    }
+  ]
+}

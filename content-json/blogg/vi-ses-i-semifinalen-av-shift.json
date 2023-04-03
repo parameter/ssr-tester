@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "slug": "vi-ses-i-semifinalen-av-shift",
+  "data": [
+    {
+      "type": "headline",
+      "text": "Vi ses i semifinalen av shift!",
+      "className": "mb-12"
+    },
+    {
+      "type": "excerp",
+      "text": "Det hade ej varit möjligt utan förtroendet av våra tidiga användare samt återförsäljare! Vi ser fram emot att vara med, presentera tjänsten och samtidigt upptäcka andra spännande projekt samt nya innovationer."
+    },
+    {
+      "type": "timeStamp",
+      "date": "2022-04-05",
+      "year": "2022",
+      "month": "april",
+      "className": "mb-12"
+    },
+    {
+      "type": "img",
+      "src": "/assets/img/blog/shift.jpg",
+      "alt": "Shift deltagare",
+      "className": "mb-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Det hade ej varit möjligt utan förtroendet av våra tidiga användare samt återförsäljare! Vi ser fram emot att vara med, presentera tjänsten och samtidigt upptäcka andra spännande projekt samt nya innovationer.",
+      "className": "mb-6"
+    },
+    {
+      "type": "author",
+      "name": "Bidstacker"
+    },
+    {
+      "type": "link",
+      "name": "https://www.breakit.se/artikel/32593/klart-for-semifinal-har-ar-de-som-gar-vidare-i-shift-svart-att-valja"
+    }
+  ]
+}
